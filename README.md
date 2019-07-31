@@ -1,4 +1,4 @@
-# autoresponse
+# autoresponse 1.6.2
 
 All credits for this postfix script go to nefaria.com and Charles Hamilton - musashi@nefaria.com (which doesn't host anymore this one).
 
